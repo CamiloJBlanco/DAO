@@ -4,7 +4,7 @@ body {
   font-family: Inter, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #7700ee;
+  background-color: #1A202C;
   color: #fff;
   overflow-x: hidden;
 }
@@ -110,13 +110,13 @@ h1 {
   background-color: #fff;
   padding: 1rem;
   border-radius: 1rem;
-  color: #000;
+  color: #0A6FFD;
   box-shadow: 3.1px 6.2px 6.2px hsl(0deg 0% 0% / 0.4);
 }
 
 button {
   cursor: pointer;
-  background-color: #000;
+  background-color: #0A6FFD;
   color: #fff;
   border: none;
   font-weight: bold;
@@ -128,11 +128,11 @@ button {
 }
 
 button:hover {
-  background-color: #121212;
+  background-color: #0A6FFD;
 }
 
 button:focus {
-  background-color: #222;
+  background-color: #0A6FFD;
 }
 
 button:disabled {
